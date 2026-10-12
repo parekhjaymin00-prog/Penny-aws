@@ -1,0 +1,3 @@
+strands-agents[gemini]
+streamlit>=1.38
+boto3

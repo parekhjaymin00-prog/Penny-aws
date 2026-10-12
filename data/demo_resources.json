@@ -1,0 +1,6 @@
+{"region": "us-east-1 (sample)",
+ "resources": [
+  {"type": "NAT Gateway", "id": "nat-0a1b2c3d4e5f60718", "detail": "State: available, created 11 days ago, in a VPC with no running instances", "where": "VPC console > NAT gateways"},
+  {"type": "Elastic IP (not attached)", "id": "eipalloc-0123456789abcdef0", "detail": "Not associated with any instance or network interface", "where": "EC2 console > Elastic IPs"},
+  {"type": "EBS volume (not attached)", "id": "vol-0fedcba9876543210", "detail": "20 GiB, status: available (no instance using it)", "where": "EC2 console > Volumes"}
+ ]}

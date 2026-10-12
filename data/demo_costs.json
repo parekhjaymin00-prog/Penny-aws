@@ -1,0 +1,1055 @@
+{
+ "currency": "USD",
+ "rows": [
+  {
+   "date": "2026-09-11",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.18
+  },
+  {
+   "date": "2026-09-11",
+   "service": "EC2 - Other",
+   "amount": 0.58
+  },
+  {
+   "date": "2026-09-11",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.38
+  },
+  {
+   "date": "2026-09-11",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.08
+  },
+  {
+   "date": "2026-09-11",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.03
+  },
+  {
+   "date": "2026-09-11",
+   "service": "AmazonCloudWatch",
+   "amount": 0.08
+  },
+  {
+   "date": "2026-09-11",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-12",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.2
+  },
+  {
+   "date": "2026-09-12",
+   "service": "EC2 - Other",
+   "amount": 0.6
+  },
+  {
+   "date": "2026-09-12",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.4
+  },
+  {
+   "date": "2026-09-12",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.1
+  },
+  {
+   "date": "2026-09-12",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.052
+  },
+  {
+   "date": "2026-09-12",
+   "service": "AmazonCloudWatch",
+   "amount": 0.104
+  },
+  {
+   "date": "2026-09-12",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-13",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.22
+  },
+  {
+   "date": "2026-09-13",
+   "service": "EC2 - Other",
+   "amount": 0.62
+  },
+  {
+   "date": "2026-09-13",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.42
+  },
+  {
+   "date": "2026-09-13",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.12
+  },
+  {
+   "date": "2026-09-13",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.074
+  },
+  {
+   "date": "2026-09-13",
+   "service": "AmazonCloudWatch",
+   "amount": 0.128
+  },
+  {
+   "date": "2026-09-13",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-14",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.19
+  },
+  {
+   "date": "2026-09-14",
+   "service": "EC2 - Other",
+   "amount": 0.59
+  },
+  {
+   "date": "2026-09-14",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.39
+  },
+  {
+   "date": "2026-09-14",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.09
+  },
+  {
+   "date": "2026-09-14",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.046
+  },
+  {
+   "date": "2026-09-14",
+   "service": "AmazonCloudWatch",
+   "amount": 0.102
+  },
+  {
+   "date": "2026-09-14",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-15",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.21
+  },
+  {
+   "date": "2026-09-15",
+   "service": "EC2 - Other",
+   "amount": 0.61
+  },
+  {
+   "date": "2026-09-15",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.41
+  },
+  {
+   "date": "2026-09-15",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.11
+  },
+  {
+   "date": "2026-09-15",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.068
+  },
+  {
+   "date": "2026-09-15",
+   "service": "AmazonCloudWatch",
+   "amount": 0.126
+  },
+  {
+   "date": "2026-09-15",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-16",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.18
+  },
+  {
+   "date": "2026-09-16",
+   "service": "EC2 - Other",
+   "amount": 0.58
+  },
+  {
+   "date": "2026-09-16",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.38
+  },
+  {
+   "date": "2026-09-16",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.08
+  },
+  {
+   "date": "2026-09-16",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.04
+  },
+  {
+   "date": "2026-09-16",
+   "service": "AmazonCloudWatch",
+   "amount": 0.1
+  },
+  {
+   "date": "2026-09-16",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-17",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.2
+  },
+  {
+   "date": "2026-09-17",
+   "service": "EC2 - Other",
+   "amount": 0.6
+  },
+  {
+   "date": "2026-09-17",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.4
+  },
+  {
+   "date": "2026-09-17",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.1
+  },
+  {
+   "date": "2026-09-17",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.062
+  },
+  {
+   "date": "2026-09-17",
+   "service": "AmazonCloudWatch",
+   "amount": 0.124
+  },
+  {
+   "date": "2026-09-17",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-18",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.22
+  },
+  {
+   "date": "2026-09-18",
+   "service": "EC2 - Other",
+   "amount": 0.62
+  },
+  {
+   "date": "2026-09-18",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.42
+  },
+  {
+   "date": "2026-09-18",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.12
+  },
+  {
+   "date": "2026-09-18",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.084
+  },
+  {
+   "date": "2026-09-18",
+   "service": "AmazonCloudWatch",
+   "amount": 0.148
+  },
+  {
+   "date": "2026-09-18",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-19",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.19
+  },
+  {
+   "date": "2026-09-19",
+   "service": "EC2 - Other",
+   "amount": 0.59
+  },
+  {
+   "date": "2026-09-19",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.39
+  },
+  {
+   "date": "2026-09-19",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.09
+  },
+  {
+   "date": "2026-09-19",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.056
+  },
+  {
+   "date": "2026-09-19",
+   "service": "AmazonCloudWatch",
+   "amount": 0.122
+  },
+  {
+   "date": "2026-09-19",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-20",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.21
+  },
+  {
+   "date": "2026-09-20",
+   "service": "EC2 - Other",
+   "amount": 0.61
+  },
+  {
+   "date": "2026-09-20",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.41
+  },
+  {
+   "date": "2026-09-20",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.11
+  },
+  {
+   "date": "2026-09-20",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.078
+  },
+  {
+   "date": "2026-09-20",
+   "service": "AmazonCloudWatch",
+   "amount": 0.146
+  },
+  {
+   "date": "2026-09-20",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-21",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.18
+  },
+  {
+   "date": "2026-09-21",
+   "service": "EC2 - Other",
+   "amount": 0.58
+  },
+  {
+   "date": "2026-09-21",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.38
+  },
+  {
+   "date": "2026-09-21",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.08
+  },
+  {
+   "date": "2026-09-21",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.05
+  },
+  {
+   "date": "2026-09-21",
+   "service": "AmazonCloudWatch",
+   "amount": 0.12
+  },
+  {
+   "date": "2026-09-21",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-22",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.2
+  },
+  {
+   "date": "2026-09-22",
+   "service": "EC2 - Other",
+   "amount": 0.6
+  },
+  {
+   "date": "2026-09-22",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.4
+  },
+  {
+   "date": "2026-09-22",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.1
+  },
+  {
+   "date": "2026-09-22",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.072
+  },
+  {
+   "date": "2026-09-22",
+   "service": "AmazonCloudWatch",
+   "amount": 0.144
+  },
+  {
+   "date": "2026-09-22",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-23",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.22
+  },
+  {
+   "date": "2026-09-23",
+   "service": "EC2 - Other",
+   "amount": 0.62
+  },
+  {
+   "date": "2026-09-23",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.42
+  },
+  {
+   "date": "2026-09-23",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.12
+  },
+  {
+   "date": "2026-09-23",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.094
+  },
+  {
+   "date": "2026-09-23",
+   "service": "AmazonCloudWatch",
+   "amount": 0.168
+  },
+  {
+   "date": "2026-09-23",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-24",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.19
+  },
+  {
+   "date": "2026-09-24",
+   "service": "EC2 - Other",
+   "amount": 0.59
+  },
+  {
+   "date": "2026-09-24",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.39
+  },
+  {
+   "date": "2026-09-24",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.09
+  },
+  {
+   "date": "2026-09-24",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.066
+  },
+  {
+   "date": "2026-09-24",
+   "service": "AmazonCloudWatch",
+   "amount": 0.142
+  },
+  {
+   "date": "2026-09-24",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-25",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.21
+  },
+  {
+   "date": "2026-09-25",
+   "service": "EC2 - Other",
+   "amount": 0.61
+  },
+  {
+   "date": "2026-09-25",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.41
+  },
+  {
+   "date": "2026-09-25",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.11
+  },
+  {
+   "date": "2026-09-25",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.088
+  },
+  {
+   "date": "2026-09-25",
+   "service": "AmazonCloudWatch",
+   "amount": 0.166
+  },
+  {
+   "date": "2026-09-25",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-26",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.18
+  },
+  {
+   "date": "2026-09-26",
+   "service": "EC2 - Other",
+   "amount": 0.58
+  },
+  {
+   "date": "2026-09-26",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.38
+  },
+  {
+   "date": "2026-09-26",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.08
+  },
+  {
+   "date": "2026-09-26",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.06
+  },
+  {
+   "date": "2026-09-26",
+   "service": "AmazonCloudWatch",
+   "amount": 0.14
+  },
+  {
+   "date": "2026-09-26",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-27",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.2
+  },
+  {
+   "date": "2026-09-27",
+   "service": "EC2 - Other",
+   "amount": 0.6
+  },
+  {
+   "date": "2026-09-27",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.4
+  },
+  {
+   "date": "2026-09-27",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.1
+  },
+  {
+   "date": "2026-09-27",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.082
+  },
+  {
+   "date": "2026-09-27",
+   "service": "AmazonCloudWatch",
+   "amount": 0.164
+  },
+  {
+   "date": "2026-09-27",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-28",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.22
+  },
+  {
+   "date": "2026-09-28",
+   "service": "EC2 - Other",
+   "amount": 0.62
+  },
+  {
+   "date": "2026-09-28",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.42
+  },
+  {
+   "date": "2026-09-28",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.12
+  },
+  {
+   "date": "2026-09-28",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.104
+  },
+  {
+   "date": "2026-09-28",
+   "service": "AmazonCloudWatch",
+   "amount": 0.188
+  },
+  {
+   "date": "2026-09-28",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-29",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.19
+  },
+  {
+   "date": "2026-09-29",
+   "service": "EC2 - Other",
+   "amount": 0.59
+  },
+  {
+   "date": "2026-09-29",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.39
+  },
+  {
+   "date": "2026-09-29",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.09
+  },
+  {
+   "date": "2026-09-29",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.076
+  },
+  {
+   "date": "2026-09-29",
+   "service": "AmazonCloudWatch",
+   "amount": 0.162
+  },
+  {
+   "date": "2026-09-29",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-09-30",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.21
+  },
+  {
+   "date": "2026-09-30",
+   "service": "EC2 - Other",
+   "amount": 0.61
+  },
+  {
+   "date": "2026-09-30",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.41
+  },
+  {
+   "date": "2026-09-30",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.11
+  },
+  {
+   "date": "2026-09-30",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.098
+  },
+  {
+   "date": "2026-09-30",
+   "service": "AmazonCloudWatch",
+   "amount": 0.186
+  },
+  {
+   "date": "2026-09-30",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-10-01",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.18
+  },
+  {
+   "date": "2026-10-01",
+   "service": "EC2 - Other",
+   "amount": 0.58
+  },
+  {
+   "date": "2026-10-01",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.88
+  },
+  {
+   "date": "2026-10-01",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.08
+  },
+  {
+   "date": "2026-10-01",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.07
+  },
+  {
+   "date": "2026-10-01",
+   "service": "AmazonCloudWatch",
+   "amount": 0.16
+  },
+  {
+   "date": "2026-10-01",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-10-02",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.2
+  },
+  {
+   "date": "2026-10-02",
+   "service": "EC2 - Other",
+   "amount": 0.6
+  },
+  {
+   "date": "2026-10-02",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.9
+  },
+  {
+   "date": "2026-10-02",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.1
+  },
+  {
+   "date": "2026-10-02",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.092
+  },
+  {
+   "date": "2026-10-02",
+   "service": "AmazonCloudWatch",
+   "amount": 0.184
+  },
+  {
+   "date": "2026-10-02",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-10-03",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.22
+  },
+  {
+   "date": "2026-10-03",
+   "service": "EC2 - Other",
+   "amount": 0.62
+  },
+  {
+   "date": "2026-10-03",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.92
+  },
+  {
+   "date": "2026-10-03",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.12
+  },
+  {
+   "date": "2026-10-03",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.114
+  },
+  {
+   "date": "2026-10-03",
+   "service": "AmazonCloudWatch",
+   "amount": 0.208
+  },
+  {
+   "date": "2026-10-03",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-10-04",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.19
+  },
+  {
+   "date": "2026-10-04",
+   "service": "EC2 - Other",
+   "amount": 3.39
+  },
+  {
+   "date": "2026-10-04",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.89
+  },
+  {
+   "date": "2026-10-04",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.09
+  },
+  {
+   "date": "2026-10-04",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.086
+  },
+  {
+   "date": "2026-10-04",
+   "service": "AmazonCloudWatch",
+   "amount": 0.182
+  },
+  {
+   "date": "2026-10-04",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-10-05",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.21
+  },
+  {
+   "date": "2026-10-05",
+   "service": "EC2 - Other",
+   "amount": 3.41
+  },
+  {
+   "date": "2026-10-05",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.91
+  },
+  {
+   "date": "2026-10-05",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.11
+  },
+  {
+   "date": "2026-10-05",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.108
+  },
+  {
+   "date": "2026-10-05",
+   "service": "AmazonCloudWatch",
+   "amount": 0.206
+  },
+  {
+   "date": "2026-10-05",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-10-06",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.18
+  },
+  {
+   "date": "2026-10-06",
+   "service": "EC2 - Other",
+   "amount": 3.38
+  },
+  {
+   "date": "2026-10-06",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.88
+  },
+  {
+   "date": "2026-10-06",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.08
+  },
+  {
+   "date": "2026-10-06",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.08
+  },
+  {
+   "date": "2026-10-06",
+   "service": "AmazonCloudWatch",
+   "amount": 0.18
+  },
+  {
+   "date": "2026-10-06",
+   "service": "Amazon Bedrock",
+   "amount": 0.0
+  },
+  {
+   "date": "2026-10-07",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.2
+  },
+  {
+   "date": "2026-10-07",
+   "service": "EC2 - Other",
+   "amount": 3.4
+  },
+  {
+   "date": "2026-10-07",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.9
+  },
+  {
+   "date": "2026-10-07",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.1
+  },
+  {
+   "date": "2026-10-07",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.102
+  },
+  {
+   "date": "2026-10-07",
+   "service": "AmazonCloudWatch",
+   "amount": 0.204
+  },
+  {
+   "date": "2026-10-07",
+   "service": "Amazon Bedrock",
+   "amount": 0.8
+  },
+  {
+   "date": "2026-10-08",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.22
+  },
+  {
+   "date": "2026-10-08",
+   "service": "EC2 - Other",
+   "amount": 3.42
+  },
+  {
+   "date": "2026-10-08",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.92
+  },
+  {
+   "date": "2026-10-08",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.12
+  },
+  {
+   "date": "2026-10-08",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.124
+  },
+  {
+   "date": "2026-10-08",
+   "service": "AmazonCloudWatch",
+   "amount": 0.228
+  },
+  {
+   "date": "2026-10-08",
+   "service": "Amazon Bedrock",
+   "amount": 0.82
+  },
+  {
+   "date": "2026-10-09",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.19
+  },
+  {
+   "date": "2026-10-09",
+   "service": "EC2 - Other",
+   "amount": 3.39
+  },
+  {
+   "date": "2026-10-09",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.89
+  },
+  {
+   "date": "2026-10-09",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.09
+  },
+  {
+   "date": "2026-10-09",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.096
+  },
+  {
+   "date": "2026-10-09",
+   "service": "AmazonCloudWatch",
+   "amount": 0.202
+  },
+  {
+   "date": "2026-10-09",
+   "service": "Amazon Bedrock",
+   "amount": 0.79
+  },
+  {
+   "date": "2026-10-10",
+   "service": "Amazon Elastic Compute Cloud - Compute",
+   "amount": 1.21
+  },
+  {
+   "date": "2026-10-10",
+   "service": "EC2 - Other",
+   "amount": 3.41
+  },
+  {
+   "date": "2026-10-10",
+   "service": "Amazon Virtual Private Cloud",
+   "amount": 0.91
+  },
+  {
+   "date": "2026-10-10",
+   "service": "Amazon Relational Database Service",
+   "amount": 1.11
+  },
+  {
+   "date": "2026-10-10",
+   "service": "Amazon Simple Storage Service",
+   "amount": 0.118
+  },
+  {
+   "date": "2026-10-10",
+   "service": "AmazonCloudWatch",
+   "amount": 0.226
+  },
+  {
+   "date": "2026-10-10",
+   "service": "Amazon Bedrock",
+   "amount": 0.81
+  }
+ ]
+}

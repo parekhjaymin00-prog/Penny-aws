@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*
+*.key
+*.pem
+feedback.jsonl
+REPORT.md
+evidence/*.webp
+evidence/*.mp4
+.streamlit/secrets.toml
+Thumbs.db
+.DS_Store
